@@ -1,0 +1,7 @@
+#Color Changer
+
+Choose a starting color, black or white. Choosing black changes the screen to black and displays the hex color at the bottom. Choosing white leaves the screen white and displays the hex color at the top.
+
+As the colors cycle, the screen color matches the hex color. The displayed hex color moves toward the opposite end of the screen very slowly - based on a percentage of the 16,777,216 colors available.
+
+Hoping to add stop, start, and manual cycle buttons.
